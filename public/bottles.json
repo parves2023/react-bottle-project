@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Mountain Spring Water",
+      "price": 15,
+      "seller": "ABC Supplies",
+      "stock": 100,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bouteille.jpg/800px-Bouteille.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Ocean Pure Water",
+      "price": 12,
+      "seller": "Pure Water Co.",
+      "stock": 50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOH-o7XpKpziLpE1RPaE89NUcHMPXDCOEyjariLphD9V3dnkZHR9XJh1JIFkN1u3lgYo&usqp=CAU",
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Desert Oasis Water",
+      "price": 20,
+      "seller": "Desert Supplies Ltd.",
+      "stock": 75,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOH-o7XpKpziLpE1RPaE89NUcHMPXDCOEyjariLphD9V3dnkZHR9XJh1JIFkN1u3lgYo&usqp=CAU",
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "name": "Rainforest Natural Water",
+      "price": 18,
+      "seller": "Eco Beverages",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOH-o7XpKpziLpE1RPaE89NUcHMPXDCOEyjariLphD9V3dnkZHR9XJh1JIFkN1u3lgYo&usqp=CAU",
+      "stock": 120,
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Arctic Glacier Water",
+      "price": 22,
+      "seller": "Polar Suppliers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOH-o7XpKpziLpE1RPaE89NUcHMPXDCOEyjariLphD9V3dnkZHR9XJh1JIFkN1u3lgYo&usqp=CAU",
+      "stock": 200,
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "name": "Tropical Island Water",
+      "price": 14,
+      "seller": "Island Imports",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOH-o7XpKpziLpE1RPaE89NUcHMPXDCOEyjariLphD9V3dnkZHR9XJh1JIFkN1u3lgYo&usqp=CAU",
+      "stock": 30,
+      "rating": 4.3
+    }
+  ]
+  
