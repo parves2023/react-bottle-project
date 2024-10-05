@@ -3,19 +3,19 @@ import PropTypes from 'prop-types';
 
 
 function Cart({ selectedCart, handleRemoveCart }) {
-  const [cartImages, setCartImages] = useState([]);
 
-  // Update cartImages whenever selectedCart changes
-  useEffect(() => {
-    setCartImages([...selectedCart]);
-  }, [selectedCart]);
-
-
+  // const [cartImages, setCartImages] = useState([]);
+  console.log("selea",selectedCart);
+  
+  // // Update cartImages whenever selectedCart changes
+  // useEffect(() => {
+  //   setCartImages([...selectedCart]);
+  // }, [selectedCart]);
 
 
   return (
     <div className='flex gap-4 py-5 justify-center'>
-      {cartImages.map((bottle, index) => (
+      {selectedCart && selectedCart.map((bottle, index) => (
         <div key={index}>
           <img className='size-16' src={bottle.image} alt="bottle" />
 
